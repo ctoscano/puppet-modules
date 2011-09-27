@@ -6,6 +6,6 @@ then
 else
 	wget -O /var/tmp/git.deb http://packages.debian.org/stable/devel/git
 	dpkg -i /var/tmp/git.deb
-	echo git help
+	echo "Git installed"
 	exit 0
 fi
