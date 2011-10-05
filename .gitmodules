@@ -1,10 +1,10 @@
 [submodule "phpfpm"]
-	path = phpfpm
-	url = git@github.com:ctoscano/phpfpm-puppet-module.git
+        path = phpfpm
+        url = git://github.com/ctoscano/phpfpm-puppet-module.git
 [submodule "nginx"]
-	path = nginx
-	url = git@github.com:ctoscano/nginx-puppet-module.git
+        path = nginx
+        url = git://github.com/ctoscano/nginx-puppet-module.git
 [submodule "mysql"]
-	path = mysql
-	url = git@github.com:ctoscano/mysql-puppet-module.git
+        path = mysql
+        url = git://github.com/ctoscano/mysql-puppet-module.git
 
